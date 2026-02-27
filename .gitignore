@@ -98,3 +98,5 @@ nbactions.xml
 # End of https://www.gitignore.io/api/java,netbeans,intellij+all
 bots.txt
 **/bll/bot/disabled/
+
+.DS_Store
