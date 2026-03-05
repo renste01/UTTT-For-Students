@@ -9,7 +9,7 @@ import dk.easv.bll.move.Move;
 import java.util.*;
 
 /**
- * MCTS-bot i én fil, uden tråde, uden I/O.
+ * MCTS-bot i en fil, uden tråde, uden I/O.
  */
 public class botHuset implements IBot {
 
